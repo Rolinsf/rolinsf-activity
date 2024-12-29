@@ -12,7 +12,7 @@
 1. 先创建临时python环境,上传git的时候记得删除临时环境
 ```
 python -m venv myenv
-. .\myeve\Scripts\activate
+. .\myenv\Scripts\activate
 ```
 2. 再下载依赖包
 ```
