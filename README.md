@@ -9,7 +9,7 @@
 
 ## 项目启动
 
-1. 先创建临时python环境,上传git的时候记得删除临时环境
+1. 先创建临时python环境,上传git的时候记得删除临时环境，避免隐私泄露
 ```
 python -m venv myenv
 . .\myenv\Scripts\activate
